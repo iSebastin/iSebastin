@@ -6,18 +6,20 @@
 - 🔭 I’m currently working for [Photon](https://www.photon.in/)
 - 🌱 I’m currently learning **SwiftUI** and **DS**
 - 👯 I’m looking to collaborate with like-minded IOS Devs
-- ⚡ Fun fact: A huge Elon's fan. So, I don't have (9 to 5), I have 24/7
+- :speech_balloon: Fav Quote: It is possible for ordinary people to choose to be extraordinary
+- :bookmark: Motto: Explore the impossible
+- ⚡ Fun fact: Might be the tallest developer in the room
 
-#### Connect with me
+#### Connect with me :raising_hand:
 * [LinkedIn](https://www.linkedin.com/in/victorsebastiana/)
 
 
-#### Languages
+#### Languages :computer:
 * SwiftUI
 * Swift 5.4
 * Objective C
 
-#### Tools
+#### Tools :hammer:
 * Xcode
 * Github
 * Sourcetree
