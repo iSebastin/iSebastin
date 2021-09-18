@@ -13,6 +13,9 @@
 #### Connect with me :raising_hand:
 * [LinkedIn](https://www.linkedin.com/in/victorsebastiana/)
 
+#### Read my blogs ::hourglass:
+* [Medium](https://codewithflash.medium.com/)
+
 
 #### Languages :computer:
 * SwiftUI
