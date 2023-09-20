@@ -11,7 +11,7 @@
 - ⚡ Fun fact: Might be the tallest developer in the room
 
 #### Connect with me :raising_hand:
-* [LinkedIn](https://www.linkedin.com/in/victorsebastiana/)
+* [LinkedIn](https://www.linkedin.com/in/isebastin/)
 
 #### Read my blogs ::hourglass:
 * [Medium](https://codewithflash.medium.com/)
